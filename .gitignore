@@ -1,0 +1,5 @@
+# Executable
+*.exe
+
+# Hidden folders
+.vscode/
